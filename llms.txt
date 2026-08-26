@@ -1,0 +1,3 @@
+# rapp-parity
+
+> Check whether a live estate is still in parity with the public source it came from. Clones a clean-room reference, diffs every live copy, and classifies each divergence by direction of truth (BEHIND / AHEAD-OR-FORKED / MISSING). Every build and comparison is a verified rapp/1 frame. Spec + usage: README.md

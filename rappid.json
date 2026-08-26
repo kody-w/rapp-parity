@@ -1,0 +1,12 @@
+{
+  "schema": "rapp/1",
+  "rappid": "rappid:@kody-w/rapp-parity:e1bbb9efe9a6b228d5225018b64bd0af1d2bdd44ac45fa2b2002adf024e4922e",
+  "kind": "tool",
+  "name": "rapp-parity",
+  "host": "github.com",
+  "owner": "kody-w",
+  "repo": "rapp-parity",
+  "github": "https://github.com/kody-w/rapp-parity",
+  "minted_at": "2026-08-26T00:51:24Z",
+  "notes": "A differential oracle for an estate: clean-room reference from public source, diffed against the live copies, each divergence classified by direction of truth. Evolved from the 'molt' idea once the pattern was defined. Minted once per RAPP spec 6.2."
+}
