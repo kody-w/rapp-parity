@@ -1,5 +1,9 @@
 # rapp-parity
 
+<!-- rapp1:network-header:start -->
+[![RAPP/1](https://kody-w.github.io/rapp-hive-public/portfolio/badges/rapp-parity.svg)](https://github.com/kody-w/rapp-hive-public/blob/main/portfolio/repos/rapp-parity.md) · **New to RAPP?** [Start here: get your Brainstem →](https://github.com/kody-w/rapp-installer#start-here)
+<!-- rapp1:network-header:end -->
+
 **Is your live estate still the same as the source it came from?**
 
 You cannot answer that from inside the estate. A system that grew over months — hand
